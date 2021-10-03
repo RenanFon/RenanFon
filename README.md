@@ -1,7 +1,7 @@
 ### Olá!, Me chamo Renan Fonseca.
 --><
 - 📚 Cursando Analise e Desenvolvimento de Sistemas👨‍💻
-- ☕ Aprendendo JavaScript.
+- ☕ Estudando HTML ,CSS e JavaScript.
 - 💻 Trabalho com Front-end.
 - 👶🏻 Buscando um estagio.
 - 🧩 Buscando Evoluir a cada dia.
