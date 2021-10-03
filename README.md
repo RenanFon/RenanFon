@@ -1,13 +1,9 @@
 ### Olá!, Me chamo Renan Fonseca.
 --><
 - 📚 Cursando Analise e Desenvolvimento de Sistemas👨‍💻
-- ☕ Estudando HTML ,CSS e JavaScript.
-- 💻 Trabalho com Front-end.
+- 🧩 Estudando HTML ,CSS e JavaScript.
 - 👶🏻 Buscando um estagio.
-- 🧩 Buscando Evoluir a cada dia.
-- 😄 Pronouns: Ele/Dele
 -->
-
 <div>
   <a href="https://github.com/RenanFon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
