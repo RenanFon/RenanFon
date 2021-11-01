@@ -1,8 +1,8 @@
-### Olá!, Me chamo Renan Fonseca.
+### Hello ! ,my name is Renan Fonseca.
 --><
-- 📚 Cursando Analise e Desenvolvimento de Sistemas👨‍💻
-- 🧩 Estudando HTML ,CSS e JavaScript.
-- 👶🏻 Buscando um estagio.
+- 📚 Attending Systems Analysis and Development👨‍💻
+- 🧩Studying HTML, CSS and JavaScript.
+- 👶🏻 Looking for an internship.
 -->
 <div>
   <a href="https://github.com/RenanFon">
