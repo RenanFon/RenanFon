@@ -1,8 +1,7 @@
 ### Hello ! ,my name is Renan Fonseca.
 --><
 - 📚 Currently studying Systems Analysis and Development 3/5👨‍💻
-- 🧩Studying HTML, CSS and JavaScript.
-- 👶🏻 Looking for an internship.
+- 🧩Studying HTML, CSS and JavaScript in Back ,Delphi.
 -->
 <div>
   <a href="https://github.com/RenanFon">
