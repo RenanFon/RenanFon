@@ -1,7 +1,7 @@
 ### Hello ! ,my name is Renan Fonseca.
 --><
 - 📚 Currently studying Systems Analysis and Development 4/5👨‍💻
-- 🧩Studying HTML, CSS and JavaScript in Back ,Delphi.
+- 🧩Studying HTML, CSS,JavaScript,Delphi and React js.
 -->
 <div>
   <a href="https://github.com/RenanFon">
